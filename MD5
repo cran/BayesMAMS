@@ -1,0 +1,10 @@
+785873e364d6639c449c6aa23c88e191 *DESCRIPTION
+25b4232d5663c60a9bf937aadeb37d7c *NAMESPACE
+c77cee9e72cf9691af910ad0984db436 *R/ssbayes.R
+371851775334eb9a0b13ca7a60590c7e *build/vignette.rds
+071c46a6ee513c9fcd95ecc265561534 *inst/doc/BayesFreq.R
+4bbd6f9040ffe1c890285a7ca673f826 *inst/doc/BayesFreq.Rnw
+adb221223ba030693ae08eae2858e32f *inst/doc/BayesFreq.pdf
+0d7a94a0b6cb55ec43cee93f41ca1459 *man/BayesMAMS-package.Rd
+0ad654bc4094c9cf05c0eb0dc811eea0 *man/ssbayes.Rd
+4bbd6f9040ffe1c890285a7ca673f826 *vignettes/BayesFreq.Rnw

@@ -1,0 +1,5 @@
+import(mvtnorm)
+
+importFrom(stats, qbeta, qnorm, qt, uniroot)
+
+export(ssbayes)
